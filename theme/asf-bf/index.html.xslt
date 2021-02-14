@@ -148,6 +148,24 @@
                   <xsl:value-of select="planet:name"/>
                 </a>
 
+                <!-- Twitter icon -->
+                <xsl:choose>
+                  <xsl:when test="planet:twitter">
+                    <a>
+                      <xsl:attribute name="title">
+                        <xsl:value-of select="planet:name"/>
+                        <xsl:value-of select="' at Twitter'"/>
+                      </xsl:attribute>
+                      <xsl:attribute name="href">
+                        <xsl:value-of select="'https://twitter.com/'"/>
+                        <xsl:value-of select="planet:twitter"/>
+                      </xsl:attribute>
+                      <img src="images/twitter.svg" width="10" height="10"
+                        alt="Twitter" class="twiticon"/>
+                    </a>
+                  </xsl:when>
+                </xsl:choose>
+
                 <xsl:if test="$posts[string-length(atom:title) &gt; 0]">
                   <ul>
                     <xsl:for-each select="$posts">
