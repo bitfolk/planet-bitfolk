@@ -24,6 +24,12 @@ In decreasing order of preference:
 * Or find some way to contact [grifferz](https://github.com/grifferz) and ask
   him to add you.
 
+The link between the `[]` needs to be the URL of your *feed*, not your blog. It
+typically looks like:
+* https:/example.com/blog/feed
+* https:/example.com/blog/index.xml
+etc.
+
 We prefer feeds that give the full content of your articles (not just a
 synopsis / first paragraph), but if you really don't want to show the full
 article then that's okay. Discoverability is the main thing.
