@@ -1,10 +1,11 @@
 # planet-bitfolk
-Configuration for Planet BitFolk and associated projects.
+Configuration for [Planet BitFolk](https://planet.bitfolk.com/) and associated
+projects.
 
 ## Purpose
 [Planet BitFolk](https://planet.bitfolk.com/) is a feed aggregator. It
-publishes feeds of articles and updates by BitFolk, its customers and
-hangers-on.
+publishes feeds of articles and updates by [BitFolk](https://bitfolk.com/), its
+customers and hangers-on.
 
 ## Adding your feed
 
@@ -20,7 +21,8 @@ In decreasing order of preference:
   [config.ini](https://github.com/bitfolk/planet-bitfolk/blob/main/config.ini)
   here in this repository and submit a pull request.
 * Or open an issue asking to be added.
-* Or find some way to contact @grifferz and ask him to add you.
+* Or find some way to contact [grifferz](https://github.com/grifferz) and ask
+  him to add you.
 
 We prefer feeds that give the full content of your articles (not just a
 synopsis / first paragraph), but if you really don't want to show the full
