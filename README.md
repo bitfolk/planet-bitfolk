@@ -26,8 +26,8 @@ In decreasing order of preference:
 
 The link between the `[]` needs to be the URL of your *feed*, not your blog. It
 typically looks like:
-* https:/example.com/blog/feed
-* https:/example.com/blog/index.xml
+* https://example.com/blog/feed
+* https://example.com/blog/index.xml
 etc.
 
 We prefer feeds that give the full content of your articles (not just a
