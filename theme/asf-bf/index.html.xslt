@@ -52,7 +52,7 @@
           <p>Unless otherwise stated articles are the work of their individual
              authors and do not represent the opinions of BitFolk.</p>
           <p>For additions / removals please see
-            <a href="https://tools.bitfolk.com/wiki/Planet_Bitfolk">
+            <a href="https://tools.bitfolk.com/wiki/Planet_BitFolk">
               BitFolk's Wiki
             </a>.
           </p>
